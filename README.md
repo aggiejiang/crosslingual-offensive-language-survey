@@ -1,6 +1,6 @@
 # Cross-lingual Offensive Language Survey
 
-This repo summarises all resources used in our survey paper "Cross-lingual Offensive Language Detection: A Systematic Review of Datasets, Transfer Approaches and Challenges" (see the paper here in arxiv). 
+This repo summarises all resources used in our survey paper "Cross-lingual Offensive Language Detection: A Systematic Review of Datasets, Transfer Approaches and Challenges" (see the paper [here](https://arxiv.org/abs/2401.09244)). 
 
 Due to the nature of this work, some examples and descriptions may contain offensive text and hate speech.
 
